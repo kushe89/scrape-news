@@ -2,6 +2,7 @@
 title: "scrape-news"
 format: html
 editor: visual
+echo: true
 ---
 
 ## News
